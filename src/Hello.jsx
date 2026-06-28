@@ -21,7 +21,7 @@
 //   2. Curly braces { } let you drop a JavaScript value into JSX, e.g. {name}.
 
 export default function Hello() {
-  const name = 'Advincula klyde Christian B'
+  const name = 'Jeriel Jair Rivera'
 
   return (
     <>
